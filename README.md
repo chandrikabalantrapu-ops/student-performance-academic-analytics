@@ -83,6 +83,32 @@ Distribution:
 
 These categories are project-defined analytical segments, not verified institutional grading classifications.
 
+## Data Visualizations
+
+### 1. Average Grades Across Examinations
+
+![Average Grades](images/average_grades.png)
+
+### 2. Study Time vs Final Grades
+
+![Study Time vs Grades](images/studytime_vs_grades.png)
+
+### 3. Absences vs Final Grades
+
+![Absences vs Grades](images/absences_vs_grades.png)
+
+### 4. Correlation Between Examination Grades
+
+![Grade Correlation](images/grade_correlation.png)
+
+### 5. Student Performance Distribution
+
+![Performance Distribution](images/performance_distribution.png)
+
+### 6. Actual vs Predicted Student Grades
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
 ## Machine Learning
 
 Linear Regression was used to estimate final mathematics grades.
